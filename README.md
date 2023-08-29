@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/ibrahimxz/ibrahimxz/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Ibrahim HZ</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim-HZ</h1>
 <h3 align="center">A Curious Full Stack Developer and Tester</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/ibrahimxz/ibrahimxz/blob/main/roblox.gif">
@@ -8,21 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimhz" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimhz?logo=twitter&style=for-the-badge" alt="ibrahimhz" /></a> </p>
 
-- 🔭 I’m currently working on **WorkFlow Management System**
+- 🔭 I’m currently working on **LineFlow-Hz GPT Powered Automative Pipeline System**
 
-- 🌱 I’m currently learning **NextJS, NodeJS, ReduxJS, ReactJS, React Native**
+- 🌱 I’m currently learning **NextJS, Flutter**
 
-- 👯 I’m looking to collaborate on **OWASP**
+- 👯 I’m looking to collaborate on **OpenSource MERN Projects**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ibrahimhz](https://linktr.ee/ibrahimhz)
+- 👨‍💻 All of my projects are available at [ibrahimhz.com](https://ibrahimhz.com)
 
-- 📝 I regularly write articles on [https://linktr.ee/ibrahimhz](https://linktr.ee/ibrahimhz)
+- 📝 I regularly write articles on [https://dev.to/ibrahimhz](https://dev.to/ibrahimhz)
 
-- 💬 Ask me about **react, nodejs, python3, bash, mongodb**
+- 💬 Ask me about **reactjs, nodejs, expressjs, mongodb, python3, bash**
 
 - 📫 How to reach me **mohammedibrahimhz@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/ibrahimhz](https://linktr.ee/ibrahimhz)
+- 📄 Know about my experiences [https://ibrahimhz](https://ibrahimhz)
 
 - ⚡ Secret Fact **I think I am more LazY**
 
