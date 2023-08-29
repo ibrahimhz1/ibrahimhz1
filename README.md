@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimhz1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhz1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ibrahimhz" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimhz?logo=twitter&style=for-the-badge" alt="ibrahimhz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_ibrahimhz" target="blank"><img src="https://img.shields.io/twitter/follow/the_ibrahimhz?logo=twitter&style=for-the-badge" alt="ibrahimhz" /></a> </p>
 
 - 🔭 I’m currently working on **LineFlow-Hz GPT Powered Automative Pipeline System**
 
