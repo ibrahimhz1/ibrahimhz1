@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mohammedibrahimhz@gmail.com**
 
-- 📄 Know about my experiences [ibrahimhz](https://ibrahimhz.com)
+- 📄 Know about my experiences [ibrahimhz.com](https://ibrahimhz.com)
 
 - ⚡ Secret Fact **I think I am more LazY**
 
