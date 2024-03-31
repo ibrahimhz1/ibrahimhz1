@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="200" src="https://i.giphy.com/media/TUQ6hOPCUifdH1KWiz/giphy.webp">
 
 # 💫 About Me:  [![portfolio](https://badgen.net/badge/ibrahimhz/10)](https://ibrahimhz.com)
-🔭 I’m currently working on **LineFlow-Hz GPT Powered Automative Pipeline System**<br><br>🌱 I’m currently learning **NextJS, Flutter**<br><br>👯 I’m looking to collaborate on **OpenSource MERN Projects**<br><br>👨‍💻 All of my projects are available at **https://ibrahimhz.com**<br><br>📝 I regularly write articles on **https://medium.com/@ibrahimhz**<br><br>💬 Ask me about **reactjs, nodejs, expressjs, mongodb, python3, bash**<br><br>📫 How to reach me **mohammedibrahimhz@gmail.com**<br><br>📄 Know about my experiences **https://ibrahimhz.com**<br><br>⚡ Secret Fact **I am Lazier**
+🔭 I’m currently working on **LineFlow-Hz GPT Powered Automative Pipeline System**<br><br>🌱 I’m currently learning **NextJS, Flutter**<br><br>👯 I’m looking to collaborate on **OpenSource MERN Projects**<br><br>👨‍💻 All of my projects are available at **https://ibrahimhz.com**<br><br>📝 I regularly write articles on **https://medium.com/@ibrahimhz**<br><br>💬 Ask me about **reactjs, nodejs, expressjs, mongodb, python3, bash**<br><br>📫 How to reach me **ibrahim.nerdcentra@gmail.com**<br><br>📄 Know about my experiences **https://ibrahimhz.com**<br><br>⚡ Secret Fact **I am Lazier**
 
 
 ## 🌐 Socials:
