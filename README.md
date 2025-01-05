@@ -1,11 +1,11 @@
 ![MasterHead](https://gitlab.com/ibrahimhz/ibrahimhz/-/raw/main/banner.jpg?ref_type=heads)
 <h1 align="center">Hi 👋, I'm Ibrahim-HZ</h1>
-<h3 align="center">A Curious Full Stack Developer and Tester</h3>
+<h3 align="center">A Curious Developer</h3>
 
 <img align="right" alt="coding" width="200" src="https://i.giphy.com/media/TUQ6hOPCUifdH1KWiz/giphy.webp">
 
 # 💫 About Me:  [![portfolio](https://badgen.net/badge/ibrahimhz/10)](https://ibrahimhz.com)
-<br>📝 I write articles on **https://medium.com/@ibrahimhz**<br><br>💬 Ask me about **reactjs, nodejs, expressjs, mongodb, python3, bash**<br><br>📫 How to reach me **ibrahim.nerdcentra@gmail.com**<br><br>📄 Know about my experiences **https://ibrahimhz.com**<br><br>⚡ Secret Fact **I am Lazier**
+🔭 I’m currently working on **WorkFlow-Hz GPT Powered**<br><br>🌱 I’m currently learning **NextJS, Flutter**<br><br>👯 I’m looking to collaborate on **OpenSource MERN, SpringBoot, .Net-Core Projects**<br><br>👨‍💻 All of my projects are available at **https://ibrahimhz.com**<br><br>📝 I regularly write articles on **https://dev.to/ibrahimhz**<br><br>💬 Ask me about **reactjs, nodejs, expressjs, mongodb, python3, bash**<br><br>📫 How to reach me **md.ibrahimhz098@gmail.com**<br><br>📄 Know about my experiences **https://ibrahimhz.com**<br><br>⚡ Secret Fact **I am Lazier than you**
 
 
 ## 🌐 Socials:
@@ -32,7 +32,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimhz1&icon=0&color=3)](https://visitcount.itsvg.in)
-<!--
-  ## 💰 You can help me by Donating!
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibrahimhz) 
--->
+
